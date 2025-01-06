@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MEARN , React**
 
-- 📫 How to reach me **pialhassanchowdhury@gmail.com**
+- 📫 How to reach me 
 
 <div align="center"> 
   <a href="mailto:pialhassanchowdhury@gmail.com">
