@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **MEARN , React**
 
-- 📫 How to reach me 
-
-<div align="center"> 
+- 📫 How to reach me <div align="center"> 
   <a href="mailto:pialhassanchowdhury@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
