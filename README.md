@@ -40,7 +40,6 @@
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&labelColor=black)
-
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **🔙 Backend:**
@@ -48,6 +47,15 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express)
 
+**🗄️ Database:**
+- ![PostgreSql](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![mongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**⚙️ Software:**
+- ![Figma](https://img.shields.io/badge/figma-%23BF1313?style=for-the-badge&logo=figma&logoColor=white)
+  ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pial36&show_icons=true&locale=en&layout=compact&theme=dark" alt="pial36" /></p>
 
