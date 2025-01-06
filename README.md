@@ -53,4 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pial36&show_icons=true&locale=en&theme=dark" alt="pial36" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pial36&theme=dark" alt="pial36" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pial36&theme=dark&" alt="pial36" /></p>
