@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pial36&label=Profile%20views&color=0e75b6&style=flat" alt="pial36" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pialchowdh50890" target="blank"><img src="https://img.shields.io/twitter/follow/pialchowdh50890?logo=twitter&style=for-the-badge" alt="pialchowdh50890" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MEARN , React**
@@ -15,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/pialhassanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pialhassanc" height="30" width="40" /></a>
+<a href="https://instagram.com/pial__chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pial__chowdhury" height="30" width="40" /></a>
 <a href="https://twitter.com/pialchowdh50890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pialchowdh50890" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pial-hassan-chowdhury-a90205295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pial-hassan-chowdhury-a90205295" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29062482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29062482" height="30" width="40" /></a>
-<a href="https://fb.com/pialhassanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pialhassanc" height="30" width="40" /></a>
-<a href="https://instagram.com/pial__chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pial__chowdhury" height="30" width="40" /></a>
 </p>
 
 ### My Stacks
