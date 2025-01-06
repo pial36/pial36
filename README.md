@@ -11,6 +11,17 @@
 
 - 📫 How to reach me **pialhassanchowdhury@gmail.com**
 
+<div align="center"> 
+  <a href="mailto:pialhassanchowdhury@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://pial36.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pialhassanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pialhassanc" height="30" width="40" /></a>
